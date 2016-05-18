@@ -4,7 +4,7 @@ import UserForm from './UserForm'
 export default React.createClass({
   render(){
     return (
-      <Form/>
+      <UserForm/>
     )
   }
 })
